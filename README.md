@@ -29,7 +29,7 @@ php artisan migrate
 
 Now all you need to do is use ```Bookable``` and ```CanBook``` traits on your models. 
 
-####Example
+#### Example
 ```
 use Jorjika\Bookings\Traits\CanBook;
 
