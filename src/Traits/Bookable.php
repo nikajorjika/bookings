@@ -1,9 +1,10 @@
 <?php
 
-namespace Jorjika\Bookings\Models;
+namespace Jorjika\Bookings\Traits;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\MorphMany;
+use Jorjika\Bookings\Models\Booking;
 
 trait Bookable
 {
