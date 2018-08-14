@@ -1,0 +1,19 @@
+{
+    "name": "jorjika/bookings",
+    "description": "This is package for adding bookings support to model.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nika Jorjoliani",
+            "email": "nikajorjika1993@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Jorjika\\Bookings\\": "src/"
+        }
+    }
+}
