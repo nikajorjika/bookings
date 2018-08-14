@@ -1,3 +1,5 @@
+#This Package is still in dev mode so don't use it in active projects
+
 # Bookings
 
 This is small lightheight package for creating bookings functionality on any two models
